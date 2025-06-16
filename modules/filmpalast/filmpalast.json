@@ -1,0 +1,19 @@
+{
+    "sourceName": "Filmpalast",
+    "iconUrl": "https://api.jm26.net/sora-modules/filmpalast/filmpalast.png?v=2",
+    "author": {
+        "name": "Cufiy",
+        "icon": "https://cdn.discordapp.com/avatars/606801871189049344/d5aba1f20de41a14540e66f357d0707b.webp",
+        "url": "https://github.com/JMcrafter26"
+    },
+    "version": "1.3.2",
+    "type": "Movies/Shows",
+    "language": "German (DUB)",
+    "streamType": "HLS",
+    "quality": "720p",
+    "baseUrl": "https://filmpalast.to",
+    "searchBaseUrl": "https://filmpalast.to/search/title/%s",
+    "scriptUrl": "https://api.jm26.net/sora-modules/filmpalast/filmpalast_v2.js?version=1.3.13",
+    "asyncJS": true,
+    "streamAsyncJS": false
+ }
