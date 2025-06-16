@@ -1,19 +1,19 @@
 {
     "sourceName": "Catflix",
-    "iconUrl": "https://api.jm26.net/sora-modules/catflix/icon.png",
+    "iconUrl": "https://github.com/JMcrafter26/sora-modules/blob/main/modules/catflix/icon.png?raw=true",
     "author": {
         "name": "Cufiy",
         "icon": "https://files.catbox.moe/ttj4fc.gif",
         "url": "https://github.com/JMcrafter26"
     },
-    "version": "1.1.463",
+    "version": "1.1.464",
     "language": "English (DUB)",
     "streamType": "HLS",
     "quality": "1080p",
     "type": "movies/shows/anime",
     "baseUrl": "https://catflix.su/",
     "searchBaseUrl": "https://catflix.su/search?q=%s",
-    "scriptUrl": "https://api.jm26.net/sora-modules/catflix/catflix.js?v=1.1.43",
+    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/catflix/catflix.js",
     "asyncJS": true,
 	"softsub": true
  }
