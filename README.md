@@ -24,17 +24,17 @@ Sora Modules are a collection of custom modules designed to enhance the function
 
 - [Sora Modules](#sora-modules)
   - [Table of Contents](#table-of-contents)
-  - [📱 Available Modules](#-available-modules)
+  - [Available Modules](#available-modules)
   - [FAQ](#faq)
     - [What are Sora Modules?](#what-are-sora-modules)
     - [How to Use Sora Modules](#how-to-use-sora-modules)
-  - [📥 Download Sora](#-download-sora)
+  - [Download Sora](#download-sora)
   - [Contributing](#contributing)
-  - [📄 License](#-license)
-  - [💬 Support](#-support)
+  - [License](#license)
+  - [Support](#support)
 
 
-## 📱 Available Modules
+## Available Modules
 
 <a align="center" href="https://sora.jm26.net/library/?mtm_campaign=Sora%20Modules%20Github%20Readme&mtm_kwd=gh-readme">
   <img src="https://github.com/JMcrafter26/sora-modules/blob/main/assets/module-library.png?raw=true&v=1.0.0" alt="Module Library Banner" width="100%" height="auto" style="max-width: 1200px;border-radius: 10px;">
@@ -59,7 +59,7 @@ Sora Modules are a collection of custom modules designed to enhance the function
 3. **🔍 Browse and install modules** that you want to use.
 4. **🎉 Enjoy enhanced features** in the Sora app!
 
-## 📥 Download Sora
+## Download Sora
 
 <div>
 <a href="https://apps.apple.com/us/app/sulfur/id6742741043"><img src="https://github.com/jmcrafter26/sora-modules/blob/main/assets/badges/appstore.png?raw=true" width="170" alt="Get it on the App Store"></a>
@@ -78,11 +78,11 @@ If you want to contribute to Sora Modules, please follow these steps:
 3. ✨ Make your changes and commit them with clear messages.
 4. 📤 Submit a pull request detailing your changes.
 
-## 📄 License
+## License
 
 Sora Modules are exclusively licensed for use within the [Sora/Sulfur iOS app](https://github.com/cranci1/Sora). Any unauthorized use, distribution, or modification is strictly prohibited.
 
-## 💬 Support
+## Support
 
 If you need help or have questions about Sora Modules, please reach out to us through the following channels:
 
