@@ -22,6 +22,9 @@ Sora Modules are a collection of custom modules designed to enhance the function
 
 ## Table of Contents
 
+<details>
+<summary>Click to expand</summary>
+
 - [Sora Modules](#sora-modules)
   - [Table of Contents](#table-of-contents)
   - [Available Modules](#available-modules)
@@ -30,9 +33,10 @@ Sora Modules are a collection of custom modules designed to enhance the function
     - [How to Use Sora Modules](#how-to-use-sora-modules)
   - [Download Sora](#download-sora)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Support](#support)
+  - [📄 License](#-license)
 
+</details>
 
 ## Available Modules
 
@@ -78,9 +82,7 @@ If you want to contribute to Sora Modules, please follow these steps:
 3. ✨ Make your changes and commit them with clear messages.
 4. 📤 Submit a pull request detailing your changes.
 
-## License
-
-Sora Modules are exclusively licensed for use within the [Sora/Sulfur iOS app](https://github.com/cranci1/Sora). Any unauthorized use, distribution, or modification is strictly prohibited.
+I use the [Global Extractor](https://github.com/JMcrafter26/sora-global-extractor) for all my extraction needs. It comes with an auto-updating system and supports a wide range of sites. If you're looking to create your own extractors, I highly recommend checking it out!
 
 ## Support
 
@@ -90,3 +92,23 @@ If you need help or have questions about Sora Modules, please reach out to us th
 - 🐛 [GitHub Issues](https://github.com/JMcrafter26/sora-modules/issues)
 
 We're here to help! 🙋‍♂️
+
+
+## 📄 License
+
+This project is licensed under a **Custom License** that restricts usage to the **Sora/Sulfur iOS application** ecosystem only. 
+
+**Key Points:**
+- ✅ **Permitted**: Use within Sora/Sulfur iOS applications and modules
+- ❌ **Prohibited**: Commercial redistribution, modification for other platforms
+- 📖 **Full Terms**: See [LICENSE](./LICENSE) for complete details
+
+---
+
+<div align="center">
+
+**Made with ❤️ for the Sora Community**
+
+[🌐 Sora Modules Library](https://sora.jm26.net/library) • [📚 Documentation](./README.md) • [🐛 Report Issues](https://github.com/JMcrafter26/sora-streamurl-extractors/issues)
+
+</div>
