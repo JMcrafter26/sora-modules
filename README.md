@@ -1,5 +1,5 @@
 <a align="center" href="https://sora.jm26.net/library/?mtm_campaign=Sora%20Modules%20Github%20Readme&mtm_kwd=gh-readme">
-  <img src="https://github.com/JMcrafter26/sora-modules/blob/main/assets/banner.png?raw=true" alt="Sora Banner" width="100%" style="max-width: 1200px;">
+  <img src="https://github.com/JMcrafter26/sora-modules/blob/main/assets/banner.png?raw=true&v=1.0.0" alt="Sora Banner" width="100%" height="auto" style="max-width: 1200px;">
 </a>
 
 
