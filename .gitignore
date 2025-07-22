@@ -17,3 +17,6 @@
 # IDE specific files
 *.idea/
 .vscode/
+
+
+test/
