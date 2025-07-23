@@ -22,9 +22,6 @@
 
 async function searchResults(keyword) {
 
-
-
-
   try {
     // this is the original api, but it requires an api key, so i used my own api
     // const response = await fetch(`https://api.themoviedb.org/3/search/multi?query=${keyword}&include_adult=false&language=en-US&page=1&sort_by=popularity.desc`, {
