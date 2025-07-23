@@ -14,5 +14,6 @@
     "baseUrl": "https://latanime.org/",
     "searchBaseUrl": "https://latanime.org/buscar?q=%s",
     "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/latanime/latanime.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "downloadSupport": true
  }
