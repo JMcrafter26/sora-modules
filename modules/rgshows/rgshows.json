@@ -1,0 +1,21 @@
+{
+    "sourceName": "RGShows",
+    "iconUrl": "https://files.catbox.moe/34bqj4.jpeg",
+    "author": {
+        "name": "Cufiy",
+        "icon": "https://files.catbox.moe/ttj4fc.gif",
+        "url": "https://github.com/JMcrafter26"
+    },
+    "version": "1.0.36",
+    "language": "English (DUB)",
+    "streamType": "HLS",
+    "quality": "720p",
+    "baseUrl": "https://rgshows.me",
+    "searchBaseUrl": "https://rgshows.me/search?q=",
+    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/rgshows/rgshows.sora",
+    "asyncJS": true,
+    "streamAsyncJS": false,
+    "softsubs": false,
+	"type": "tv/movies",
+	"encrypted": true
+ }
