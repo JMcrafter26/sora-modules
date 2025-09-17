@@ -109,6 +109,6 @@ This project is licensed under a **Custom License** that restricts usage to the 
 
 **Made with ❤️ for the Sora Community**
 
-[🌐 Sora Modules Library](https://sora.jm26.net/library) • [📚 Documentation](./README.md) • [🐛 Report Issues](https://github.com/JMcrafter26/sora-streamurl-extractors/issues)
+[🌐 Sora Modules Library](https://sora.jm26.net/library) • [📚 Documentation](https://sora.jm26.net/docs) • [🐛 Report Issues](https://github.com/JMcrafter26/sora-streamurl-extractors/issues)
 
 </div>
