@@ -12,7 +12,7 @@
     "quality": "720p",
     "baseUrl": "https://rgshows.me",
     "searchBaseUrl": "https://rgshows.me/search?q=",
-    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/rgshows/rgshows.sora",
+    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/rgshows/rgshows.js",
     "asyncJS": true,
     "streamAsyncJS": false,
     "softsubs": false,
