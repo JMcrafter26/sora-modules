@@ -13,7 +13,7 @@
     "type": "movies/shows/anime",
     "baseUrl": "https://catflix.su/",
     "searchBaseUrl": "https://catflix.su/search?q=%s",
-    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/catflix/catflix.sora",
+    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/catflix/catflix.js",
     "asyncJS": true,
 	"softsub": true,
 	"encrypted": true
