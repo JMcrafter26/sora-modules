@@ -13,7 +13,7 @@
     "quality": "720p",
     "baseUrl": "https://filmpalast.to",
     "searchBaseUrl": "https://filmpalast.to/search/title/%s",
-    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/filmpalast/filmpalast_v2.sora",
+    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/sora-modules/refs/heads/main/modules/filmpalast/filmpalast_v2.js",
     "asyncJS": true,
     "streamAsyncJS": false,
     "encrypted": true
